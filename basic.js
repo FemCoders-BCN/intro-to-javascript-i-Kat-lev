@@ -18,7 +18,7 @@ console.log("Bienvenida al bootcamp de FemCoders de Factoría F5")
 
 //Escribe tu código aquí
 //String
-let coder1 = ("Priscilla")
+let coder1 = "Priscilla"
 console.log('Hola', coder1)
 
 //Number
@@ -160,6 +160,7 @@ let space = " "
 let lastName = "Leverton"
 let fullName = firstName + space + lastName
 console.log(fullName)
+//Nota para Alex: Dejo aquí mi primer intento cutre!
 let fullName1 = (firstName.concat(' ',lastName))
 console.log(fullName1)
 
